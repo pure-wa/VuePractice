@@ -1,9 +1,11 @@
 <template>
-    <div>test 화면입니다.</div>
+    <div>라우트 화면 2</div>
 </template>
 
 <script>
     export default {
+        methods: {
 
+        }
     }
 </script>
